@@ -1,0 +1,67 @@
+
+:root{
+
+    --miColor:chocolate;
+
+}
+a {
+
+    text-decoration: none!important;
+
+}
+
+
+ul {
+    
+    list-style: none;
+}
+
+span {
+    
+    
+    color: var(--miColor);
+}
+
+.fondomain{
+
+    background-color:rgb(68, 64, 64);
+
+}
+
+.fondoboton{
+
+   background-color: var(--miColor)!important;
+
+}
+
+.textoformulario{
+
+    color: var(--miColor)!important;
+}
+
+.fondoform{
+
+    background-color: rgb(71, 70, 70);
+
+}
+
+input::placeholder{
+
+    color:white!important;
+}
+
+.btn{
+
+    background-color: var(--miColor)!important;
+
+}
+
+h2{
+
+    color:var(--miColor)!important;
+
+}
+
+
+
+
