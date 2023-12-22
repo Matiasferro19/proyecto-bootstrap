@@ -63,3 +63,9 @@ h2{
 }
 
 
+
+.zoom:hover{
+
+    transform: scale(1.5);
+
+}
